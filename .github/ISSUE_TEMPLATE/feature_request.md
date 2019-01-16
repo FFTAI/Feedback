@@ -2,10 +2,14 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: new feature
 assignees: ''
 
 ---
+
+**Machine Type (please complete the following information):**
+ - Type: [e.g. M2/M1A/M1W]
+ - Version [e.g. 3.2]
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
